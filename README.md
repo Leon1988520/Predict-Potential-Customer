@@ -16,3 +16,7 @@ I will be breaking the entire working into following stages:
 5] Testing the model
 
 6] Parameter tuning for more accurate results.
+
+
+The dataset used for my experiment is available here and has following features:-
+"age";"job";"marital";"education";"default";"housing";"loan";"contact";"month";"day_of_week";"duration";"campaign";"pdays";"previous";"poutcome";"emp.var.rate";"cons.price.idx";"cons.conf.idx";"euribor3m";"nr.employed"
